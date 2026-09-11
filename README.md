@@ -19,13 +19,13 @@
 使用以下命令安装：
 
 ```sh
-wget https://raw.githubusercontent.com/miku111/XrayOnAlpine/main/install-release.sh && bash install-release.sh
+wget https://raw.githubusercontent.com/GLASS20/XrayOnAlpine/main/install-release.sh && bash install-release.sh
 ```
 
 或者
 
 ```sh
-curl -L -s https://raw.githubusercontent.com/miku111/XrayOnAlpine/main/install-release.sh | bash
+curl -L -s https://raw.githubusercontent.com/GLASS20/XrayOnAlpine/main/install-release.sh | bash
 ```
 
 ## 管理 Xray 服务
